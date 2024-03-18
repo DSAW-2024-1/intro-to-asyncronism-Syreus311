@@ -1,0 +1,14 @@
+.main-background {
+    background-image: url("assests/background.jpeg");
+    background-size: cover;
+}
+
+.title-img {
+    width: 400px;
+    height: 300px;
+}
+
+.images {
+    width: 300px;
+    height: 300px;
+}
