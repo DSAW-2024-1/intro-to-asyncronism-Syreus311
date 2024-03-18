@@ -24,6 +24,6 @@
 | Calidad del código | 1.5     |
 | Funcionalidad      | 1.5     |
 
-## LINK PÁGINA: https://dsaw-2024-1.github.io/intro-to-asyncronism-Syreus311/
+## LINK PÁGINA:
 
 ## NOMBRE: KATHERIN JULIANA MORENO
